@@ -1,7 +1,7 @@
-userName = input("Enter your name:")
-print("Hello," + userName + "!")
+name = input("Enter your name:")
+print("Hello," + name + "!")
 
-userAge = input("Enter your age:")
-userAge = int(userAge)
-print("you will be " + str(userAge + 1) +" next year!")
+age = input("Enter your age:")
+age = int(age)
+print("You will be " + str(age + 1) +" next year.")
 
